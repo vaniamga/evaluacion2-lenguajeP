@@ -1,0 +1,39 @@
+[
+   {
+    "nombre": "Valeria",
+    "apellido": "Fernández",
+    "edad": 27,
+    "email": "valeria.fernandez@example.com",
+    "password": "clave_123_secure",
+    "intereses": ["Lectura", "Tecnología", "Arte"],
+    "es_administrador": true
+  },
+  {
+    "nombre": "Emilio",
+    "apellido": "Ramírez",
+    "edad": 22,
+    "email": "emilio.ramirez@example.com",
+    "password": "password_456",
+    "intereses": ["Viajes", "Cine", "Naturaleza"],
+    "es_administrador": false
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Gutiérrez",
+    "edad": 29,
+    "email": "laura.gutierrez@example.com",
+    "password": "pass_secure_789",
+    "intereses": ["Música", "Belleza", "Cocina"],
+    "es_administrador": true
+  },
+  {
+    "nombre": "Gabriel",
+    "apellido": "López",
+    "edad": 33,
+    "email": "gabriel.lopez@example.com",
+    "password": "secure_pass_987",
+    "intereses": ["Fotografía", "Música", "Deportes"],
+    "es_administrador": false
+  }
+]
+  
